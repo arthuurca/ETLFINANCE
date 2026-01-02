@@ -3,7 +3,7 @@ import pandas as pd
 import os
 from datetime import datetime
 
-tickers = ['PETR4.SA', 'VALE3.SA', 'ITUB4.SA', 'WEGE3.SA']
+tickers = ['PETR4.SA', 'VALE3.SA', 'ITUB4.SA', 'WEGE3.SA', 'BBAS3.SA']
 
 def dataExtract():
     print(f"[{datetime.now()}] Iniciando extração dos dados...")
