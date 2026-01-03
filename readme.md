@@ -98,8 +98,8 @@ Clone o repositório e configure o ambiente Python:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU_USUARIO/finance-etl-pipeline.git
-cd finance-etl-pipeline
+git clone https://github.com/arthuurca/ProjetoEngenhariadeDados.git
+cd ProjetoEngenhariadeDados
 
 # Criar ambiente virtual
 python -m venv .venv
