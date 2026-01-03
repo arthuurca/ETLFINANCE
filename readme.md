@@ -153,7 +153,7 @@ A aplicação estará disponível em: **http://localhost:8501**
 ## 📂 Estrutura de Pastas
 
 ```text
-ETLFINANCAS/
+ETLFINANCE/
 ├── data/
 │   ├── raw/                # Camada Bronze (dados brutos)
 │   └── processed/          # Camada Silver (dados tratados)
