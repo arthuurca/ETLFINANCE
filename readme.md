@@ -98,7 +98,7 @@ Clone o repositório e configure o ambiente Python:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/arthuurca/ProjetoEngenhariadeDados.git
+git clone https://github.com/arthuurca/ETLFINANCE.git
 cd ProjetoEngenhariadeDados
 
 # Criar ambiente virtual
@@ -153,7 +153,7 @@ A aplicação estará disponível em: **http://localhost:8501**
 ## 📂 Estrutura de Pastas
 
 ```text
-finance-etl/
+ETLFINANCAS/
 ├── data/
 │   ├── raw/                # Camada Bronze (dados brutos)
 │   └── processed/          # Camada Silver (dados tratados)
