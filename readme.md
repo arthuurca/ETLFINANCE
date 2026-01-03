@@ -171,12 +171,12 @@ finance-etl/
 ---
 
 <div align="center">
-<p>Desenvolvido por <b>Arthur</b></p>
+<p>Desenvolvido por <b>Arthur Carvalho</b></p>
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/arthur-vinicius-95b614239/">
 <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:arthurcontactbr@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Fale_Comigo-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 </div>
