@@ -174,7 +174,7 @@ ETLFINANCE/
 <div align="center">
 <p>Desenvolvido por <b>Arthur Carvalho</b></p>
 
-<a href="[https://www.linkedin.com/in/arthur-carvalho-95b614239/](https://www.linkedin.com/in/arthur-carvalho-95b614239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+<a href="https://www.linkedin.com/in/arthur-carvalho-95b614239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:arthurcontactbr@gmail.com">
